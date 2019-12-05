@@ -8,7 +8,7 @@ posts = [
             'picture': 'https://picsum.photos/60/60/?image=1027'
         },
         'timestamp': datetime.now().strftime('%b %dth, %Y - %H:%M hrs'),
-        'photo': 'https://picsum.photos/200/200?image=1036',
+        'photo': 'https://picsum.photos/id/1036/800/600',
     },
     {
         'title': 'via lactea',
@@ -17,7 +17,7 @@ posts = [
             'picture': 'https://picsum.photos/60/60/?image=1005'
         },
         'timestamp': datetime.now().strftime('%b %dth, %Y - %H:%M hrs'),
-        'photo': 'https://picsum.photos/200/200?image=903',
+        'photo': 'https://picsum.photos/id/903/800/800',
     },
     {
         'title': 'nuevo auditorio',
@@ -26,7 +26,7 @@ posts = [
             'picture': 'https://picsum.photos/60/60/?image=883'
         },
         'timestamp': datetime.now().strftime('%b %dth, %Y - %H:%M hrs'),
-        'photo': 'https://picsum.photos/200/200?image=1076',
+        'photo': 'https://picsum.photos/id/1076/500/700',
     },
 ]
 
